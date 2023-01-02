@@ -4,8 +4,6 @@ import java.util.List;
 public class MainFamilyTree {
     public static void main(String[] args) {
 
-        
-
         Human Alex = new Human("Alex", 55, null, null);
 
         Human Ann = new Human("Ann", 55, null, null);
